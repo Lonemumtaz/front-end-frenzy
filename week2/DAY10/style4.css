@@ -1,0 +1,19 @@
+shop-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box{
+    border: 2px solid black;
+    height: 300px;
+    width: 30%;
+    background-color: aqua;
+    padding: 20px 0px 15px;
+    margin-top: 4px;
+
+}
+
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
